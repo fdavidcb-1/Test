@@ -1,1 +1,1 @@
-Hello World I'm learning o use GIT
+Hello World I'm learning to use GIT
